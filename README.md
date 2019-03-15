@@ -9,4 +9,5 @@ The tutorial can be followed interactively via
 https://jupyter.eofrom.space. 
 
 
-UPDATE 2019: the service the tutorial gives as an example has unfortunately been switched off. However, the tutorial still gives an idea about how OGC WCS requests work.
+UPDATE 2019: 
+* the OGC service this tutorial gives as an example has unfortunately been switched off. However, the tutorial still gives an idea about how OGC WCS requests work.
